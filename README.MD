@@ -65,4 +65,3 @@ There are two scripts included in this project:
 ## Contribution
 
 Every contribution is welcome! Simply fork the project and create a PR. You can also create an issue and ask for a feature.
-i am new user 
